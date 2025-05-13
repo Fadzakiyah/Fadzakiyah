@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fadzakiyah
 - 👀 I’m interested in data science and machine learning for accounting and business research
-- 🌱 I’m currently learning python 
+- 🌱 Python, R, STATA, Power BI, TensorFlow
 - 😄 Pronouns: she/her
 
 
